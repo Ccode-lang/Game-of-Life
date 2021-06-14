@@ -26,5 +26,3 @@ Once the program has been started the user will be prompted to input the number 
 ## How to run faster
 If you remove the line  ```time.sleep(1 /50)```  from the file it will run faster. **WARNING: RUNNING THIS WAY MAY MAKE YOU HAVE TO PRESS THE EXIT CODE MULTIPLE TIMES BEFORE IT WORKS!**
 
-## Example output
-![example image](images/Isolated.png "EXAMPLE")
